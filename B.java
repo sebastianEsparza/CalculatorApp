@@ -1,3 +1,5 @@
 public class B {
-    public void savetheworld()
+    public void savetheworld(){
+        System.out.println("Easier than I thought");
+    }
 }
